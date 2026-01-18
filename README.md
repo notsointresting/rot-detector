@@ -2,6 +2,7 @@
 
 [![npm version](https://img.shields.io/npm/v/rot-detector.svg)](https://www.npmjs.com/package/rot-detector)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![npm downloads](https://img.shields.io/npm/dm/rot-detector.svg?style=flat-square)](https://www.npmjs.com/package/rot-detector)
 
 > **Find abandoned dependencies before they become security nightmares.**
 
